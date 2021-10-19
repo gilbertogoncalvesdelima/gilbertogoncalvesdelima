@@ -5,12 +5,12 @@
 <div align="center">
   
   <div align="center">
-  <a href="https://github.com/gilbertoreact">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gilbertoreact&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/gilbertogoncalvesdelima">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gilbertogoncalvesdelima&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     </div>
 </br>
   <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilbertoreact&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilbertogoncalvesdelima&layout=compact&langs_count=7&theme=dark"/>
 </div>
 </div>
 </br>
@@ -32,5 +32,5 @@
   <a href="https://www.linkedin.com/in/gilberto-gon%C3%A7alves-a9a700131/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![Snake animation](https://github.com/gilbertoreact/gilbertoreact/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/gilbertogoncalvesdelima/gilbertogoncalvesdelima/blob/output/github-contribution-grid-snake.svg)
 
