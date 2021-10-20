@@ -35,3 +35,5 @@
 
 ![Snake animation](https://github.com/gilbertogoncalvesdelima/gilbertogoncalvesdelima/blob/output/github-contribution-grid-snake.svg)
 
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/wagstalos/count.svg" />
+
